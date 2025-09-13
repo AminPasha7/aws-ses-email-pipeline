@@ -28,6 +28,19 @@ It includes a **Moto-powered local simulation** so you can run and verify the so
 
 ---
 
+## 📌 Architecture Overview
+
+### High-Level Workflow
+![High-Level SES Email Flow](diagrams/Scalable_SES_Email_Flow_AWS.png.png)
+
+### Detailed Pipeline
+![SES Email Pipeline Architecture](diagrams/aws_ses_email_pipeline_architecture.png.png)
+
+The first diagram gives a top-level overview of the flow, and the second provides detailed architecture for developers and DevOps engineers.
+
+---
+
+
 ## 🗂 Project Structure
 
 aws-ses-email-pipeline/
